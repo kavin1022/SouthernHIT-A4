@@ -1,0 +1,41 @@
+<svg viewBox="0 0 400 277" xmlns="http://www.w3.org/2000/svg">
+    <!-- S -->
+    <g transform="translate(0, -10)">
+        <defs>
+            <clipPath id="cptop">
+                <rect x="33" y="77" width="40" height="100" fill="none" stroke="none"/>
+            </clipPath>
+
+            <clipPath id="cpbot">
+                <rect x="71" y="140" width="200" height="100" fill="none" stroke="none" />
+            </clipPath>
+        </defs>
+        
+        <circle cx="77.5" cy="129" r="28.5" fill="none" stroke-width="22.5" stroke="black"  clip-path="url(#cptop)"/>
+        <rect x="72" y="89.4" width="43" height="23.1" fill="black"/>
+        
+        <circle cx="76" cy="185" r="28.5" stroke-width="22.5" fill="none" stroke="black" clip-path="url(#cpbot)"/>
+        <rect x="40" y="202" width="40" height="22.8" fill="black"/>
+    </g>
+
+    <!-- H -->
+    <rect height="138.5" width="27" y="77" x="128.7"/>
+    <rect height="23" width="35.5" y="131" x="159.8"/>
+    <rect height="138.5" width="22.6" y="77" x="195.16"/>
+
+    <!-- I -->
+    <rect height="138.5" width="30.26" y="77" x="233.6"/>
+
+    <!-- T -->
+    <rect height="22.7" width="45.26" y="77" x="279.7"/>
+    <rect height="138.5" width="25" y="77" x="300"/>
+    <rect height="23.02752" width="32.75229" y="77" x="328"/>
+
+    <!-- Water Drop-->
+    <circle cx="246" cy="46" r="15" fill="#ffd800"/>
+    <polygon points="246,07 261.4,45 230.5,45" style="fill:#ffd800;stroke-width:1" />
+
+    <text font-style="normal" font-family="Verdana" x="31" font-size="12.3" font-weight="" y="246">SOUTHERN HEMISPHERE INSTITUTE OF TECHNOLOGY</text>
+    
+
+</svg>
